@@ -2,6 +2,8 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+// got help from other students and peers
+
 public class MaxHeapTest {
     // homework
     @Test
