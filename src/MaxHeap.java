@@ -1,5 +1,9 @@
 import java.util.Arrays;
 
+// got help from other students and peers
+// got help from geeksforgeeks on what maxheap is
+// https://www.geeksforgeeks.org/max-heap-in-java/
+
 public class MaxHeap implements Heap {
     int size;
 
